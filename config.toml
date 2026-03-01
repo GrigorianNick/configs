@@ -1,0 +1,10 @@
+theme = "cyber"
+
+[editor]
+end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+other-lines = "hint"
+
+[editor.cursor-shape]
+insert = "bar"
